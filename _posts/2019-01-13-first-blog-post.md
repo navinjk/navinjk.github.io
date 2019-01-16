@@ -19,5 +19,5 @@ excerpt: First Post Welcome to my Blog
 permalink: '/:year/:month/:day/:title'
 ---
 
-Welcome to my blog! 
-#NeverStopLearning
+Welcome to my blog! #NeverStopLearning
+
