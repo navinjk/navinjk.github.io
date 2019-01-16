@@ -65,7 +65,7 @@ defaults:
 # Build settings
 markdown: kramdown
   #auto_ids: true
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-sitemap
