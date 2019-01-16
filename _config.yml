@@ -65,7 +65,7 @@ defaults:
 # Build settings
 markdown: kramdown
   #auto_ids: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
   - jekyll-sitemap
